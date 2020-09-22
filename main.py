@@ -41,5 +41,5 @@ def play(game, p1, p2):
         return
 
 
-setup(Text()) # play on the command line
+# setup(Text()) # play on the command line
 setup(Graphical()) # play using pygame
